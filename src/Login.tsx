@@ -3,7 +3,7 @@ import { GoogleOAuthProvider, GoogleLogin } from '@react-oauth/google'
 
 const clientId = import.meta.env.DEV ? 
     '383098064574-l95dgqcif425vr183k3k6ttaj43980vi.apps.googleusercontent.com' :
-    ''
+    '383098064574-ar94l6lnc0np2uvana0csur6aunfucer.apps.googleusercontent.com'
 
 const Login = () => {
   
